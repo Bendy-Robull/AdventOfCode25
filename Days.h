@@ -35,6 +35,7 @@
 #include <typeindex>
 #include <ranges>
 #include <execution>
+#include <deque>
 
 void dayOneFirstRound();
 void dayOneSecondRound();

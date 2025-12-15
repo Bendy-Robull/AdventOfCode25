@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    dayTwoFirstRound();
+    dayThreeSecondRound();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
